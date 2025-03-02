@@ -1,3 +1,7 @@
 This is a CRUD Application created using MERN Stack.
 
-![alt text](https://github.com/arun596/FullStack-CRUD-Application-using-MERN/blob/main/Screenshot%202025-03-02%20160525.png?raw=true)
+
+
+
+https://github.com/user-attachments/assets/3ef68c0f-2357-45a6-aaeb-36f8079f2e28
+
